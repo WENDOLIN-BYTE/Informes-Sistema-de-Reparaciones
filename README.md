@@ -117,7 +117,7 @@ public class GestionPersonal {
 ---
 
 ## ⚠️ Notificaciones
-✅ Estado actual: Sitio funcionando de forma correcta
-⚠️ Advertencia: Para generar los Informes Generales debe lograrse la conexión final con los otros subsistemas
-❗ Importante: Aún está pendiente lograr la exportación de los Informes a formatos PDF y EXCEL.
+- ✅ Estado actual: Sitio funcionando de forma correcta
+- ⚠️ Advertencia: Para generar los Informes Generales debe lograrse la conexión final con los otros subsistemas
+- ❗ Importante: Aún está pendiente lograr la exportación de los Informes a formatos PDF y EXCEL.
 
