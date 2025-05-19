@@ -49,6 +49,28 @@ Puedes navegar por las páginas del subsistema directamente desde aquí:
 - [📊 Tipo de Informes](https://wendolin-byte.github.io/Informes-Sistema-de-Reparaciones/wireframe-bootstrap/TipoInformes.html)
 
 ---
+## 🌐 Capturas de Pantalla de las páginas
+
+### 🖼️ Vista de Subinforme Principal
+![Subinforme](Capturas/SubsistemaInforme.png)
+
+### 📊 Vista de Tipo de Informes
+![Tipo de Informes](Capturas/TipoInformes.png)
+
+### 💰 Vista del Informe Financiero
+![Informe Financiero](Capturas/Financiero.png)
+
+### 👨‍🔧 Vista del Rendimiento del Personal
+![Rendimiento del Personal](Capturas/Personal.png)
+
+### 📦 Vista del Inventario
+![Inventario](Capturas/Inventario.png)
+
+### 😊 Encuesta de Satisfacción
+![Encuesta](Capturas/Encuesta.png)
+
+---
+
 
 ## 📄 Código Java
 
