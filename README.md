@@ -1,8 +1,10 @@
-# 📊 Subsistema de Informes - Proyecto Intermodular
-Subsistema Informes Irma Wendolin
+# 📊 Servicio Reparción Ordenadores - Proyecto Intermodular
+
+
 
 # ![Logo de la Empresa](https://github.com/wendolin-byte/Informes-Sistema-de-Reparaciones/blob/main/logo.jpg?raw=true)
 
+# Subsistema de Informes Irma Wendolin
 
 
 ---
