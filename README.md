@@ -1,9 +1,9 @@
-# Informes-Sistema-de-Reparaciones
+# 📊 Subsistema de Informes - Proyecto Intermodular
 Subsistema Informes Irma Wendolin
 
 # ![Logo de la Empresa](https://github.com/wendolin-byte/Informes-Sistema-de-Reparaciones/blob/main/logo.jpg?raw=true)
 
-# 📊 Subsistema de Informes - Proyecto Intermodular
+
 
 ---
 
