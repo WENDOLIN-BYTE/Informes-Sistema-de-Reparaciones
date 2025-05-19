@@ -1,7 +1,6 @@
-# 📊 Servicio de Reparación de Ordenadores
-        - Proyecto Intermodular
+# Proyecto Intermodular 
 
-
+# 📊 Servicio de Reparación de Ordenadores  
 
 # ![Logo de la Empresa](https://github.com/wendolin-byte/Informes-Sistema-de-Reparaciones/blob/main/logo.jpg?raw=true)
 
