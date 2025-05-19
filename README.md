@@ -1,11 +1,13 @@
-# Proyecto Intermodular 
+# Proyecto Intermodular <img src="LogoEmpresa.png" alt="Icono" width="60"/>
 
 # 📊 Servicio de Reparación de Ordenadores  
 
-# ![Logo de la Empresa](https://github.com/wendolin-byte/Informes-Sistema-de-Reparaciones/blob/main/logo.jpg?raw=true)
-
-
 # Subsistema de Informes 
+
+# ![Logo de la Empresa](https://github.com/wendolin-byte/Informes-Sistema-de-Reparaciones/blob/main/logo-informes.jpg?raw=true)
+
+
+
 
 
 ---
