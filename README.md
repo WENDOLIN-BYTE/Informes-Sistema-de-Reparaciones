@@ -36,6 +36,16 @@ Este subsistema permite generar informes útiles para el seguimiento y control d
 - 📥 Importación de datos desde ficheros.
 
 ---
+## 👥 Equipo
+
+Este proyecto ha sido desarrollado por:
+👨 Manuel Rubio – Gestión de Materiales
+👨 Lucas Alamar – Gestión de Personal
+👨 Ruben Sánchez – Gestión de Reparaciones
+👨 Alejandro Farinós – Gestión de Clientes
+👩 Irma Domínguez – Generación de Informes
+
+---
 
 ## 🌐 Páginas Bootstrap
 
